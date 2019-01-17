@@ -1,0 +1,20 @@
+---
+
+galaxy_info:
+  author: 'Damien BERAUD'
+  description: 'Ansible role to install and configure portainer'
+  company: 'Dawan (https://dawan.fr)'
+  license: 'MIT'
+  min_ansible_version: '2.4'
+  github_branch: 'master'
+  platforms:
+    - name: 'Debian'
+      versions:
+        - 'jessie'
+        - 'stretch'
+    - name: 'Ubuntu'
+      versions:
+        - 'xenial'
+        - 'bionic'
+  galaxy_tags: []
+dependencies: []
